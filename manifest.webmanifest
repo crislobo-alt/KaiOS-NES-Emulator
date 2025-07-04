@@ -1,0 +1,41 @@
+{
+	"id": "nesEmulator",
+	"name": "NES Emulator",
+	"description": "Play all the best games of the 80s on your phone! No games are included in the app, but you can easily download them from the internet.",
+	"theme_color": "#757C82",
+	"lang": "en-US",
+	"start_url": "/index.html",
+	"icons": [
+		{
+			"src": "/icons/icon56x56.png",
+			"type": "image/png",
+			"sizes": "56x56"
+		},
+		{
+			"src": "/icons/icon112x112.png",
+			"type": "image/png",
+			"sizes": "112x112"
+		}
+	],
+	"display": "fullscreen",
+	"orientation": "any",
+
+	"b2g_features": {
+		"type": "privileged",
+		"subtitle": "Classic games on your phone.",
+		"version": "3.0.1",
+		"developer": {
+			"name": "n4no.com",
+			"url": "http://kaios.n4no.com"
+		},
+		"dependencies": {
+			"ads-sdk": "1.5.8"
+		},
+		"permissions": {
+			"device-storage:sdcard": {
+				"description": "Required for browsing files.",
+				"access": "readonly"
+			}
+		}
+	}
+}

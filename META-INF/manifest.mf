@@ -1,0 +1,121 @@
+Manifest-Version: 1.0
+
+Name: bundle.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: ryQXFv6a4jKSnFWYShoaxw==
+SHA1-Digest: 132+ZBb0Md8FLf1e4jaaBYixCrU=
+SHA256-Digest: WNfWT4xI5rEpEib1y/zA0Em2bKodmL0Q7ftM1ZZzLIk=
+
+Name: bundle.js.LICENSE.txt
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 8bXK2oQojZNaJag7tbEtYg==
+SHA1-Digest: DXRhKfc2Gybgd23ZTYya0I3jqRU=
+SHA256-Digest: c/rhEkLvRayU/RHm7IhRP2pvzuBsi8MZ8+FjoMfymqM=
+
+Name: icons/icon112x112.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: J6vfwELUGRE6I5t+RSLohg==
+SHA1-Digest: 51wbgBS6KNG8tA1SY/olg+PVkFQ=
+SHA256-Digest: pNZn7VCE9yO1NOc4p/KcUniXERZDbzlDv6FHkMIhspg=
+
+Name: icons/file.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: KJNlvQ1JR9N53EblcksLCg==
+SHA1-Digest: kojKLxKvX6O5lW3D9XX9jVmVdBc=
+SHA256-Digest: NZE02cDEMgbXMF1Fzwu8xELcAvOubHxQ2ARDOt356Ps=
+
+Name: icons/gear.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: HZZ0b6OwYMX5XX353g4yLg==
+SHA1-Digest: 1VkXkqLjpo/cJ2PWBQZOaYzlsR0=
+SHA256-Digest: Y9qFRjjoCMrkEUJUVthH91ubnRGKLiQfbSDXdDrufcs=
+
+Name: icons/back.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: gV5x2NPv6w52a9CY/8wlqA==
+SHA1-Digest: SqN8OdCVKjicPZ+B3YNph2ayDkQ=
+SHA256-Digest: 0xd6LJ4sb7/tV4kjvlukiJ/8zGuXsGf911bsle0EOxo=
+
+Name: icons/play.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: NEHduKqflvEMJ4f3Z6nUzQ==
+SHA1-Digest: dDXLVZqOoyAwd3bvLrbIG2SyDM8=
+SHA256-Digest: AkrmBLytOyu6v2aiyGe83jSb5SMCm7fvEejDu+qAsPA=
+
+Name: icons/star.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: HOwkiO1jRpOKXLR5y7H95A==
+SHA1-Digest: 898OuxNGdHuD20KuudWhlHeeZ6M=
+SHA256-Digest: crKNjOraTGKm4Di9wsCRRKf8wlA2Vpl1jwC+7rqgvas=
+
+Name: icons/radio-checked.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 9WXBs9Fqxs9bItsYbw6K3Q==
+SHA1-Digest: oWjRjqIy5XTRDznu12ndYR+ruMY=
+SHA256-Digest: MEMsGYx6sHTw13bSIzbRgXvLC0Bt/vU0dbOP2KL0WD8=
+
+Name: icons/icon56x56.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: LsDc5geHBmbzl0HmA+jFvA==
+SHA1-Digest: RwyCiNQFut0Ote0ZTXdIhkus0aQ=
+SHA256-Digest: VNpM5pN8Hr3cDHEasLGl/LIIyETkRD+3j33b3MxDw1g=
+
+Name: icons/web.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: Zz82TA9NE1po7TX+BKQ2jQ==
+SHA1-Digest: 0xLULgwXHC9RR4KnmWQC3cWOUUk=
+SHA256-Digest: YQhd1npH+oXyQKrG953avYzxibbm3epGxGN0ToiDW6E=
+
+Name: icons/radio-unchecked.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: HRAdRvBMGHOdr78rniUkiA==
+SHA1-Digest: XgmoPHm6eBC/vLW7ajfpUnbbwLA=
+SHA256-Digest: rWjn+aPyoEMwaiU6ANZawFa5HxQISIuxDdoQ59I7YV8=
+
+Name: icons/folder.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: EdbOQ2bWNRtMJAD7X0UfSg==
+SHA1-Digest: 0GJYyDTndInclrFO69qwEcSa5VI=
+SHA256-Digest: +oXcC7XDRVQUBIUPEWWCXFdEXXGBNbPuTTVWCNhiyeY=
+
+Name: index.html
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 9VGWq9/+SIWstGZNIQ9OLw==
+SHA1-Digest: FJbDqTDXBRxEkkSK60zQpFebysM=
+SHA256-Digest: VS6MLzHuFN4E4T7PAlUpJapvE3DbNybFPPHLAUZkp/o=
+
+Name: kaiads.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 2uD7RrzIeu6p3GYL3d5kTA==
+SHA1-Digest: CPC0V+tMsWwz0F5r4S7qYbAswI4=
+SHA256-Digest: WjQXHbJ4E5O6ybpbS9NIpjv2FuIxk9tL7naDxawJ9VU=
+
+Name: manifest.webmanifest
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: qa5yK3ZskpuwbQGOOI4gcw==
+SHA1-Digest: cVN5SQjhg9QpYp9KUoL9qMpIPDU=
+SHA256-Digest: NMLh4kfUESxdTjYMn49vyaQIHpQi6UesJcxZ2tIR238=
+
+Name: nes-keyboard.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: yHOFF1WH3ulBEms7fVQxkg==
+SHA1-Digest: L83QOwTsKvLQkcKkCTH3XuSeTIc=
+SHA256-Digest: zgM1kJ/0KcX6fDzJU5mrLTxGw3kJ16RCGg6Yo8Ac0N8=
+
+Name: worker.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: jaeKR/vJ8nMUyXGlvAu79A==
+SHA1-Digest: xmPwiuort0wiQBZBprKP1JirPJw=
+SHA256-Digest: +cYFnpdu+xhMCE3zL0kfxPPlA/65Ce6ebw5cE+/6ro4=
+
+Name: .KaiAds.appinfo.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: Seu9jc82GYZ9Ez8WossYGg==
+SHA1-Digest: 3olAJUa0XFpB0Hle6kgv1CaK7AA=
+SHA256-Digest: vExeZJTqUFkBjvCO4PVakE9eaWqQ9aWmB7Aqc8HCDrM=
+
+Name: META-INF/ids.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: b3FBgm3k3SIYV8W9j0g6BA==
+SHA1-Digest: Dg5xC4d8kBVd2gD+49ulBRQdSPE=
+SHA256-Digest: aLTEghe+ybIThZCIiVU8ufZ7NMbKZVUcwRWicB0JAa0=
